@@ -183,4 +183,4 @@ Steps to Access the ipynb(python) file for Machine Learning
 
     * 11.	Click Upload and load the file MultipleAlgorithms_MobilephoneRatingPrediction_2.ipynb
 
-    * 12.	 Repeat steps 3-6 (This file is only for comparing different machine learning models. This file takes several hours to run. We are not fetching any output from this file. We are only fetching output from the Naive Bayes model from the first file.)
+    * 12.	 Repeat steps 3-6 (This file is only for comparing different machine learning models. This file takes several hours to run. We are not fetching any output from this file. We are only fetching output from the Naive Bayes model from the first file).
